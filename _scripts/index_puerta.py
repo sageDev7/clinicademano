@@ -66,9 +66,7 @@ nuevo = '''<!-- ============ LA CLÍNICA ============ -->
 <!-- ============ STAFF ============ -->
 <section class="sec sec-alt" id="staff">
   <div class="wrap staff-prev">
-    <div class="staff-tiles reveal" aria-hidden="true">
-      <span class="tile">AM</span><span class="tile">CM</span><span class="tile">AR</span><span class="tile">ML</span><span class="tile">DZ</span><span class="tile">CB</span><span class="tile">DY</span>
-    </div>
+    <figure class="split-foto reveal"><img src="./img/cirugia_mano_2.jpg" alt="Médicos del staff de Clínica de Mano durante una cirugía" width="620" height="280" loading="lazy"></figure>
     <div class="staff-txt reveal">
       <p class="eyebrow">Staff médico</p>
       <h2 class="h2">Siete médicos, un mismo criterio</h2>

@@ -1,0 +1,13 @@
+{
+  "sitio": "Clínica de Mano",
+  "titulo_corto": "Clínica de Mano",
+  "responsable": "Clínica de Mano",
+  "domicilio": "Garibaldi 394, Ciudad de Mendoza, Mendoza",
+  "email": "info@clinicademano.com.ar",
+  "telefono": "+54 9 261 241-0820",
+  "persona": "nosotros",
+  "formulario": false,
+  "btn": "btn-dark",
+  "theme_color": "#FFFFFF",
+  "css": {"fondo": "#fff", "fondo_hero": "var(--bg-alt)", "texto_hero": "var(--dark)", "acento": "var(--accent)", "muted": "var(--muted)", "titulos": "var(--head)"}
+}
